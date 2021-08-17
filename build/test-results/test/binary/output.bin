@@ -1,0 +1,2 @@
+SConnecting to database: jdbc:mysql://127.0.0.1:3306/employee_payroll?useSSL=false
+EConnection is successful! com.mysql.cj.jdbc.ConnectionImpl@1871c60c
